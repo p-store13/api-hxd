@@ -1,16 +1,16 @@
 
 <p align="center">
-<img src="https://telegra.ph/file/22cffdfa5155c4f9ca4ec.png" width="170" height="170"/>
+<img src="https://telegra.ph/file/22cffdfa5155c4f9ca4ec.png" width="200" height="200"/>
 </p>
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Welcome+To+Rest+Api+P-Store+By+HendraXD+" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Welcome+To+Rest+Api+HXD+" alt="">
 </p>
 <p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-AlipBot-red.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-HendraXD-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/p-store13?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/p-store13?color=green&style=flat-square"></a>
-<a href="https://github.com/AlipBot/Api-Alpis/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/AlipBot/Api-Alpis?color=white&style=flat-square"></a>
+<a href="https://github.com/p-store13/api-hxd/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/p-store13/api-hxd?color=white&style=flat-square"></a>
 <a href="https://github.com/AlipBot/Api-Alpis/network/members"><img title="Forks" src="https://img.shields.io/github/forks/AlipBot/Api-Alpis?color=yellow&style=flat-square"></a>
 <a href="https://github.com/AlipBot/Api-Alpis/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/AlipBot/Api-Alpis?label=Watchers&color=red&style=flat-square"></a>
 <a href="https://github.com/AlipBot/Api-Alpis"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
